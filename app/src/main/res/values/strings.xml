@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="to_play_pause_the_preview_music">To Play / Pause the preview music</string>
+    <string name="search">Search</string>
+    <string name="seekbar_music">seekbar music in time millis</string>
+</resources>
